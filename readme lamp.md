@@ -41,6 +41,16 @@ If you already have MySql client or server installed (to check enter rpm -q mysq
 yum install mysql.`uname -i` yum-plugin-replace
 yum replace mysql --replace-with mysql55w
 
+Removing Maria DB in order to install mysql instead
+
+If you had mariadb installed and you want to remove it then enter
+Yum remove mariadb mariadb-server
+Yum shell
+> Remove mariadb-ls
+> Run
+> exit
+
+
 To install the LAMP stack all at once
 
 At the commandline enter # yum -y install –enable repo = webtatic httpd mysql -server mysql php55w php 55w -mysql 
