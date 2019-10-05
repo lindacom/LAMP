@@ -9,7 +9,7 @@ Steps
 3. Install Wordpress in the LAMP environment
 
 Installing a virtual box
-==========================
+========
 •	Go to virtualbox.org
 •	Click the download link
 •	Click the link to install on Windows
