@@ -9,8 +9,9 @@ See the various readme files
 2. Log into the machine
 3. Set up the LAMP stack - Linux, Apache, MySQL, PHP using the command line
 4. Open, check and run the servers
-5. Test installation
-6. Install Wordpress in the LAMP environment
+5. Make Mysql installation secure
+6. Test installation
+7. Install Wordpress in the LAMP environment
 
 Installing a virtual box
 ========
