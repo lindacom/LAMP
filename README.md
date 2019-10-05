@@ -3,12 +3,14 @@ Setting up a local Linux LAMP stack and installing WordPress
 
 Steps
 ========
+See the various readme files
 
 1. Install Centos 7 or Dabian on an Oracle Virtual Box
-2. Set up the LAMP stack - Linux, Apache, MySQL, PHP using the command line
-3. Run servers
-4. Test installation
-5. Install Wordpress in the LAMP environment
+2. Log into the machine
+3. Set up the LAMP stack - Linux, Apache, MySQL, PHP using the command line
+4. Open, check and run the servers
+5. Test installation
+6. Install Wordpress in the LAMP environment
 
 Installing a virtual box
 ========
