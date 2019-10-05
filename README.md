@@ -5,15 +5,17 @@ Steps
 ========
 
 1. Install Centos 7 or Dabian on an Oracle Virtual Box
-2. Set up the LAMP environment - Linux, Apache, MySql, PHP using the command line
-3. Install Wordpress in the LAMP environment
+2. Set up the LAMP stack - Linux, Apache, MySQL, PHP using the command line
+3. Run servers
+4. Test installation
+5. Install Wordpress in the LAMP environment
 
 Installing a virtual box
 ========
-•	Go to virtualbox.org
-•	Click the download link
-•	Click the link to install on Windows
-•	Once downloaded download the linux centos IOS file by going to centos.org, download the dvd iso file, select a mirror link from the list to download.
+1. Go to virtualbox.org
+2. Click the download link
+3. Click the link to install on Windows
+4 Once downloaded download the linux centos IOS file by going to centos.org, download the dvd iso file, select a mirror link from the list to download.
 Install a virtual machine in your virtual box
 ==========================
 •	In the oracle virtual box click the new icon on the toolbar to add the operating system. Name – Centos, type – Linux, version – Redhat (64 bit)
