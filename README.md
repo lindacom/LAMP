@@ -1,5 +1,5 @@
 # LAMP
-Setting up a local Linux LAMP environment
+Setting up a local Linux LAMP stack and installing WordPress
 
 Steps
 ========
@@ -16,6 +16,7 @@ Installing a virtual box
 2. Click the download link
 3. Click the link to install on Windows
 4 Once downloaded download the linux centos IOS file by going to centos.org, download the dvd iso file, select a mirror link from the list to download.
+
 Install a virtual machine in your virtual box
 ==========================
 •	In the oracle virtual box click the new icon on the toolbar to add the operating system. Name – Centos, type – Linux, version – Redhat (64 bit)
@@ -30,12 +31,14 @@ Install a virtual machine in your virtual box
 •	Specify file location and size (8mb min for centos, select 20.13gb (or other)
 •	Click create
 •	Centos virtual machine will now be created in the virtual box
+
 Configure virtual box settings
 ==========================
 •	In the Oracle virtual box click the settings button on the toolbar
 •	In the general screen click the advanced tab
 •	Set both shared clipboard and drag and drop to directional (so that you can copy from other systems to the virtual box)
 •	In the systems screen click the processor tab and change processor setting to use 2CPU
+
 Linking machine to virtual box
 ==========================
 •	In the Oracle virtual box select the machine from the left-hand pane
@@ -43,6 +46,7 @@ Linking machine to virtual box
 •	In the attributes > optical drive field click the disc icon and select ‘choose a virtual CD DVD disk drive’
 •	Copy the path where centos IOS is located on your computer and click open 
 •	Click ok
+
 Running the virtual machine
 ==========================
 •	In the virtual box select Centos machine from the left hand pane
@@ -50,6 +54,7 @@ Running the virtual machine
 •	Click install Centos link (or let it automatically reboot)
 •	In the welcome screen select the language
 •	Click the next button
+
 Configuring machine settings
 ==========================
 •	Date and time – click on map to select location and click done
@@ -61,6 +66,7 @@ Configuring machine settings
 •	Installation destination – ensure automatically configure partitioning is selected and click done
 •	Click the begin installation button
 N.b. while the installation is running you can create user and password
+
 Setting up user and password
 ==========================
 •	Click the root password icon
@@ -71,6 +77,7 @@ Setting up user and password
 •	Enter a password
 •	Check the make user an administrator box
 •	Click done
+
 Reboot the machine
 ==========================
 When the installation is complete and before rebooting you need to unmount centos. To do this 
